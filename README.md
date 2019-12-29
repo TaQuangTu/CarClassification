@@ -8,5 +8,5 @@ This is a course project. Recognite car make & brand in images.
 - Nguyen Minh Tuan    : 16521380
 - Tong Van Le Anh     : 16521625
 
-
+*** Note: We did not push model files and dataset because they exceed Github's push-up limit.
 
